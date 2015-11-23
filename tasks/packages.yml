@@ -44,7 +44,7 @@
     - nmon
     - openssh-server
     - patch
-    - postgresql
+    - pkg-config
     - postgresql
     - postgresql-client
     - postgresql-plpython-9.3
